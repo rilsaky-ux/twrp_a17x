@@ -1,1 +1,0 @@
-# twrp_a17x_rilsaky_v1
